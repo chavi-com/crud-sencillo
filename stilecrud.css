@@ -1,0 +1,108 @@
+.formulario{
+    width: 300px;
+	height: 260px;
+	background: rgb(182, 248, 250);
+	padding: 40px;
+	margin: 40px;
+	margin-top: 100px;
+	box-shadow:2px 0px 20px  0px  #41e93c;
+    border-radius: 4px;
+    font-family: 'caliri';
+    color : black;
+}
+h4{
+    color: black;
+    text-decoration-color: black;
+    text-shadow: 1px 3px 2px blue;
+    text-align: center;
+    
+}
+.controls{
+    width: 300px;
+	background: #466f7c67;
+	padding: 2.2px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	border: 1px solid hsl(226, 80%, 42%);
+	font-family: 'calibri';
+	font-size: 18px;
+	color: rgb(34, 54, 31);
+}
+.botons{
+    color:blue ;
+	text-decoration: none;
+	width: 300px;
+	background:#41e93c;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	border: 1px solid red;
+	font-family: 'calibri';
+	font-size: 18px;
+}
+.table{
+    border: 2px red;
+    width: 1200px;
+	height:560px;
+	background: rgb(182, 248, 250);
+	padding: 10px;
+    box-shadow:2px 0px 20px  0px  #41e93c;
+    border-radius: 4px;
+	margin: 50px;
+    margin-top: -340px;
+    margin-left: 380px;
+    /*
+	margin-top: 100px;
+
+    border-radius: 4px;
+    font-family: 'caliri';
+    color : white;*/
+
+}
+.titles{
+    color: red;
+    border: 3px solid #41e93c;
+    background: rgb(60, 60, 139);
+    width: 150px;
+}
+.todo{
+    width: 1800px;
+    height: 1800px;
+    background:#466f7c67;
+    
+}
+.letras{
+    color: black;
+    width: 30px;
+    height: 25px;
+    margin: 8px;
+    margin-left: 10px;
+}
+.edit{
+    color:red ;
+	text-decoration: none;
+	width: 90px;
+	background:blue;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	border: 1px solid red;
+	font-family: 'calibri';
+	font-size: 18px;
+    margin: 10px;
+
+}
+.eliminar{
+    color:blue ;
+	text-decoration: none;
+	width: 90px;
+	background:red;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	border: 1px solid rgb(0, 225, 255);
+	font-family: 'calibri';
+	font-size: 18px;
+    margin: 10px;
+}
+
